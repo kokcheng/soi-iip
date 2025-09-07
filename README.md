@@ -1,3 +1,6 @@
+## Link to update supervisor information
+https://forms.cloud.microsoft/r/yBWv4nJq8D
+
 # 🧭 Pre-IIP Briefing — AY2025 Semester 1
 
 Welcome to your Industry Immersion Programme (IIP)! This briefing outlines key information, milestones, and expectations to help you prepare for a successful internship experience.
