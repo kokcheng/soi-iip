@@ -38,9 +38,7 @@ Welcome to your Industry Immersion Programme (IIP)! This briefing outlines key i
   - ✅ LO Approval  
   - ✅ Apply via SNApp
 
-### Leave Summary & Extension Calculator
-
-- [📄 Internship Leave Summary](https://for.edu.sg/rp-soi-internship-leave-summary-student)  
+### Extension Calculator
 - [🧮 Internship Extension Calculator](https://for.edu.sg/rp-soi-internship-calculator)
 
 ---
