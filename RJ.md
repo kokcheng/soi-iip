@@ -1,6 +1,6 @@
 # Internship Reflection Prompts
 
-## Part 1: Beginning of Internship
+## Part 1: Reflection #1 – To be submitted by end of week 7
 
 ### 1a. Professional Growth & Development
 **Prompt:**  
@@ -20,7 +20,7 @@ What actions can you take to ensure that your internship goals can be met by the
 
 ---
 
-## Part 2: Mid to End of Internship
+## Reflection #2 – To be submitted after mid-point check-in by LO and before end of week 14
 
 ### 2a. Skills Development
 **Prompt:**  
