@@ -1,6 +1,6 @@
 # Internship Reflection
 
-Reflection #1 – To be submitted by end of week 7
+## Reflection #1 – To be submitted by end of week 7
 
 ### 1a. Professional Growth & Development
 **Prompt:**  
